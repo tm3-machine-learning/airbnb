@@ -1,6 +1,8 @@
 # Airbnb Busyness Recommendation Engine
 
-[![Open Analysys In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tm3-machine-learning/airbnb/blob/main/final-analysis/airbnb_analysis.ipynb)
+Analysis:   
+[![Open Analysys In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tm3-machine-learning/airbnb/blob/main/final-analysis/airbnb_analysis.ipynb)  
+Modelling:   
 [![Open Moddeling In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tm3-machine-learning/airbnb/blob/main/final-analysis/airbnb_modelling.ipynb)
 
 This repository contains the code and resources for a “Airbnb Busyness Recommendation Engine” project. The goal of this project is to demonstrate how Airbnb (or a similar platform) could leverage listing‐level data to measure neighbourhood “busyness” and then recommend underutilised (less busy) but similar neighbourhoods when a user’s desired area is at capacity. By redirecting guest demand to quieter areas, the system aims to help mitigate overtourism and make better use of available inventory.
